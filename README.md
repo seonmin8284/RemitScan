@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/13i9EEOPVrwfNdQjwzAHsoBYhe_UiJ6kofGHuEqlM
 | 김서령    | 총괄 / XGboost 알고리즘 적용 | ryeong2105@gmail.com |
 | 조용성    |      | |
 | 임은서    |                      | |
-| 김선민    |                |  |
+| 김선민    | API 개발 및 디바이스 연동       |  |
 
 ## 🔗 Project Planning (WBS)
 
