@@ -9,4 +9,5 @@ uvicorn main:app --reload
 ![image](https://github.com/user-attachments/assets/fa883b17-8266-4373-9d37-c3e177db674e)
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0bd8f5a5-1eb4-4bb9-9c38-bac50a686c43)
+
