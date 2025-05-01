@@ -19,7 +19,8 @@ https://docs.google.com/spreadsheets/d/13i9EEOPVrwfNdQjwzAHsoBYhe_UiJ6kofGHuEqlM
 
 ## 🛠️ Tech Stack
 - **Python**: Data processing and ML modeling
-- **XGBoost / LightGBM / Random Forest**: Fraud detection modeling
+- **Isolation Forest / Autoencoder / Variational Autoencoder**: Unsupervised modeling
+- **XGBoost / LightGBM / Random Forest**: Supervised modeling
 - **Jupyter Notebook**: EDA and feature engineering
 - **Matplotlib / Seaborn**: Data visualization
 
@@ -28,7 +29,7 @@ https://docs.google.com/spreadsheets/d/13i9EEOPVrwfNdQjwzAHsoBYhe_UiJ6kofGHuEqlM
 | 이름     | 역할                   | 메일 |
 |--------|----------------------|-|
 | 김서령    | 총괄 / XGboost 알고리즘 적용 | ryeong2105@gmail.com |
-| 조용성    |      | |
+| 조용성    | End-to-End 프로세스 구현 | j808esc@gmail.com |
 | 임은서    |                      | |
 | 김선민    | API 개발 및 디바이스 연동       | seonmin8284@gmail.com |
 
